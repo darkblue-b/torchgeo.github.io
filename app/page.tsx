@@ -729,6 +729,8 @@ export default function Home() {
                 height={40}
                 unoptimized
               />
+              <a href="https://gdal.org" target="_blank" rel="noopener noreferrer">
+                <Image src="/brand/osgeo-gdal.png" alt="GDAL/OSGeo" width={106} height={89} unoptimized /></a>
               <p>
                 An official PyTorch Ecosystem Library for geospatial deep
                 learning. MIT-licensed, developed in the open as an OSGeo
